@@ -23,7 +23,7 @@ Using five years of daily prices for the 500 largest U.S. companies, this projec
 - Some firms (e.g., NVO, TRI, SNPS) showed relatively low beta exposure in the downturn simulation, making them attractive for stability-oriented allocations.
 
 ## Recommendations
-- Build a diversified portfolio of the top 10–15 stocks with the highest Sharpe ratios, focusing on those in Health Care and Technology that consistently delivered strong performance.
+- Build a diversified portfolio of the top 10-15 stocks with the highest Sharpe ratios, focusing on those in Health Care and Technology that consistently delivered strong performance.
 - Give special weight to stocks with resilient forecasts under downturn scenarios (e.g., NVO, SNPS, TRI), as these can help reduce drawdown risk while preserving upside potential.
 - Re-evaluate Sharpe rankings and forecasts quarterly, incorporating updated volatility and return trends, to ensure your high-performing portfolio remains data-driven and responsive to market dynamics.
 - Consider complementing ETS forecasts with ARIMA or LSTM models in the future to enhance predictive robustness, especially for more volatile tickers.
