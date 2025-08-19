@@ -2,6 +2,9 @@
 
 Using five years of daily prices for the 500 largest U.S. companies, this project evaluates trend and risk, annualized return, 12-month momentum, volatility, and Sharpe ratio, to identify sustained, risk-efficient performers. Simple, interpretable time-series models (ETS) produce next-quarter return forecasts for the most attractive candidates, with outputs including sector rollups and a ranked shortlist to support selection.
 
+In this project, I have used a dataset from Kaggle:
+> - [Kaggle dataset](https://www.kaggle.com/datasets/iveeaten3223times/massive-yahoo-finance-dataset) 
+
 ## Questions to be explored
 1. What are each stock’s annualized return, rolling 12-month momentum, and volatility over the past five years?
 2. Which stocks rank highest by Sharpe ratio (return/volatility) over the period?
